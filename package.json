@@ -1,0 +1,35 @@
+{
+  "name": "glsl-2d-primitives",
+  "version": "1.0.0",
+  "description": "SDF functions to draw 2D shapes in glsl.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayamflow/glsl-2d-primitives.git"
+  },
+  "keywords": [
+    "sdf",
+    "glsl",
+    "2d",
+    "circle",
+    "box",
+    "triangle",
+    "polygon",
+    "shape",
+    "signed",
+    "distance",
+    "field"
+  ],
+  "author": "Florian Morel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/glsl-2d-primitives/issues"
+  },
+  "homepage": "https://github.com/ayamflow/glsl-2d-primitives#readme",
+  "dependencies": {
+    "glsl-aastep": "^1.0.1"
+  }
+}
