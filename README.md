@@ -5,13 +5,15 @@
 SDF functions to draw 2d shapes in glsl.
 Antialiased using [glsl-aastep](https://github.com/glslify/glsl-aastep).
 
+![glsl-2d-primitives](https://i.imgur.com/qJmmSxA.jpg)
+
 ### Installation :package:
 
 ```bash
 npm i glsl-2d-primitives -S
 ```
 
-### Usage :book:
+### Usagez :book:
 
 #### circle(vec2 st, float radius)
 #### rectangle(vec2 st, vec2 size)

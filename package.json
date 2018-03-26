@@ -1,6 +1,6 @@
 {
   "name": "glsl-2d-primitives",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDF functions to draw 2D shapes in glsl.",
   "main": "index.js",
   "scripts": {
