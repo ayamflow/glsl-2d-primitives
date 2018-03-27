@@ -1,6 +1,5 @@
-#define PI 3.14159265359
-#define TWO_PI 6.28318530718
-
+#pragma glslify: PI = require(glsl-constants/PI)
+#pragma glslify: TWO_PI = require(glsl-constants/TWO_PI)
 #pragma glslify: aastep = require(glsl-aastep)
 
 float polygon(vec2 st, float radius, float sides) {

@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/ayamflow/glsl-2d-primitives#readme",
   "dependencies": {
-    "glsl-aastep": "^1.0.1"
+    "glsl-aastep": "^1.0.1",
+    "glsl-constants": "^1.0.0"
   }
 }
